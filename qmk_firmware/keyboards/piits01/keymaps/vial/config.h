@@ -1,0 +1,5 @@
+#pragma once
+#define VIAL_KEYBOARD_UID {0x13, 0xa7, 0x47, 0x43, 0xa8, 0x12, 0x48, 0x6b}
+#define VIAL_TAP_DANCE_ENTRIES 8
+#define VIAL_COMBO_ENTRIES 8
+#define PICO_FLASH_SIZE_BYTES (1 * 1024 * 1024)
